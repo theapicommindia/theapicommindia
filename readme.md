@@ -1,5 +1,3 @@
-# API Community 🌐
-
 <p align="center">
     <a href="https://example.com" target="_blank">
         <img src="/banner.png" alt="API Community Banner">
@@ -10,27 +8,18 @@
 
 ---
 
-## Learn & Build With APIs 🧑‍🎓
-
-- 📚 [API Documentation](https://example.com/docs) – Explore how to integrate and build with APIs.  
-- 📝 [Blog & Tutorials](https://example.com/blog) – Read guides, case studies, and best practices.  
-- 📺 [YouTube Channel](https://youtube.com/c/example) – Watch demos, livestreams, and video tutorials.  
-- 💻 [Awesome APIs Repo](https://github.com/example/awesome-apis) – Discover community-made projects.  
-- 🌐 [Built With APIs](https://builtwithexample.com/) – Showcase of apps built with open-source APIs.  
-
----
-
 ## Connect With Us 🫂
 
-- 🌟 Star the [main API Community repo](https://github.com/example/api-community/stargazers)  
-- 👨‍👩‍👧‍👦 Join our [Discord community](https://discord.gg/example)  
-- 🐤 Follow us on [X](https://x.com/example)  
-- 🧑‍💻 Contribute or apply via our [Careers & Open Source Projects page](https://example.com/careers)  
+- 🌟 Star the [main API Community repo](https://github.com/theapicommindia/theapicommindia)
+- 🐤 Follow us on [X](https://x.com/theapicommunity)  
+- 📸 Follow us on [Instagram](https://instagram.com/theapicommunity)  
+- 💼 Connect on [LinkedIn](https://linkedin.com/company/theapicommunity)  
+- 🧑‍💻 Contribute or apply via our [Careers & Open Source Projects page](https://www.theapicommunityorg/)  
 
 ---
 
 <p align="center">
-    <a href="https://github.com/example/api-community">
-        <img src="https://raw.githubusercontent.com/example/api-community/master/public/images/github.png" alt="Visit the API Community repo">
+    <a href="https://github.com/theapicommindia/theapicommindia">
+        <img src="/logo.png" alt="Visit the API Community repo">
     </a>
 </p>
